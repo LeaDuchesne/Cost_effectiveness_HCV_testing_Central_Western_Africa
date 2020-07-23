@@ -1,0 +1,405 @@
+wtp;strat_name;strat_des;prob
+0;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0
+0;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;97.22
+0;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);1.07
+0;S12;Strategy 12: POC HCV-RNA;1.68
+50;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0
+50;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;98.26
+50;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+50;S12;Strategy 12: POC HCV-RNA;1.73
+100;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0
+100;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;98.24
+100;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+100;S12;Strategy 12: POC HCV-RNA;1.75
+150;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0
+150;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;98.2
+150;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+150;S12;Strategy 12: POC HCV-RNA;1.79
+200;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0
+200;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;98.14
+200;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+200;S12;Strategy 12: POC HCV-RNA;1.85
+250;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0.01
+250;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;98.07
+250;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+250;S12;Strategy 12: POC HCV-RNA;1.91
+300;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0.02
+300;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;98.03
+300;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+300;S12;Strategy 12: POC HCV-RNA;1.94
+350;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0.04
+350;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;97.97
+350;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.01
+350;S12;Strategy 12: POC HCV-RNA;1.97
+400;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0.09
+400;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;97.86
+400;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.02
+400;S12;Strategy 12: POC HCV-RNA;2.02
+450;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0.15
+450;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;97.76
+450;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.02
+450;S12;Strategy 12: POC HCV-RNA;2.06
+500;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0.28
+500;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;97.59
+500;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.02
+500;S12;Strategy 12: POC HCV-RNA;2.1
+550;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0.49
+550;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;97.35
+550;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.03
+550;S12;Strategy 12: POC HCV-RNA;2.1
+600;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);0.77
+600;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;97.03
+600;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.05
+600;S12;Strategy 12: POC HCV-RNA;2.11
+650;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);1.32
+650;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;96.42
+650;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.05
+650;S12;Strategy 12: POC HCV-RNA;2.13
+700;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);2.12
+700;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;95.53
+700;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.06
+700;S12;Strategy 12: POC HCV-RNA;2.17
+750;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);3.13
+750;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;94.51
+750;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.08
+750;S12;Strategy 12: POC HCV-RNA;2.18
+800;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);4.21
+800;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;93.38
+800;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.09
+800;S12;Strategy 12: POC HCV-RNA;2.22
+850;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);5.42
+850;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;92.15
+850;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.09
+850;S12;Strategy 12: POC HCV-RNA;2.23
+900;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);6.95
+900;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;90.61
+900;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.09
+900;S12;Strategy 12: POC HCV-RNA;2.24
+950;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);8.66
+950;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;88.8
+950;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.09
+950;S12;Strategy 12: POC HCV-RNA;2.28
+1000;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);10.48
+1000;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;86.94
+1000;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.1
+1000;S12;Strategy 12: POC HCV-RNA;2.29
+1050;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);12.19
+1050;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;85.25
+1050;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.08
+1050;S12;Strategy 12: POC HCV-RNA;2.27
+1100;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);14.25
+1100;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;83.16
+1100;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.08
+1100;S12;Strategy 12: POC HCV-RNA;2.3
+1150;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);16.27
+1150;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;81.12
+1150;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.08
+1150;S12;Strategy 12: POC HCV-RNA;2.31
+1200;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);18.3
+1200;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;79.06
+1200;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.08
+1200;S12;Strategy 12: POC HCV-RNA;2.33
+1250;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);20.27
+1250;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;77.08
+1250;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.08
+1250;S12;Strategy 12: POC HCV-RNA;2.34
+1300;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);22.08
+1300;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;75.24
+1300;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.07
+1300;S12;Strategy 12: POC HCV-RNA;2.34
+1350;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);23.82
+1350;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;73.49
+1350;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.05
+1350;S12;Strategy 12: POC HCV-RNA;2.37
+1400;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);25.41
+1400;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;71.9
+1400;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.06
+1400;S12;Strategy 12: POC HCV-RNA;2.39
+1450;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);27.04
+1450;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;70.29
+1450;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.05
+1450;S12;Strategy 12: POC HCV-RNA;2.34
+1500;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);28.42
+1500;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;68.94
+1500;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.04
+1500;S12;Strategy 12: POC HCV-RNA;2.3
+1550;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);30.11
+1550;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;67.26
+1550;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.03
+1550;S12;Strategy 12: POC HCV-RNA;2.29
+1600;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);31.49
+1600;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;65.9
+1600;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.03
+1600;S12;Strategy 12: POC HCV-RNA;2.29
+1650;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);32.93
+1650;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;64.49
+1650;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.02
+1650;S12;Strategy 12: POC HCV-RNA;2.27
+1700;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);34.34
+1700;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;63.11
+1700;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.02
+1700;S12;Strategy 12: POC HCV-RNA;2.24
+1750;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);35.55
+1750;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;61.88
+1750;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.01
+1750;S12;Strategy 12: POC HCV-RNA;2.24
+1800;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);36.64
+1800;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;60.77
+1800;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.01
+1800;S12;Strategy 12: POC HCV-RNA;2.25
+1850;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);37.82
+1850;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;59.57
+1850;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.01
+1850;S12;Strategy 12: POC HCV-RNA;2.27
+1900;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);38.84
+1900;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;58.52
+1900;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.01
+1900;S12;Strategy 12: POC HCV-RNA;2.29
+1950;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);39.97
+1950;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;57.44
+1950;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.01
+1950;S12;Strategy 12: POC HCV-RNA;2.26
+2000;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);40.9
+2000;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;56.53
+2000;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0.01
+2000;S12;Strategy 12: POC HCV-RNA;2.25
+2050;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);42.18
+2050;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;55.27
+2050;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2050;S12;Strategy 12: POC HCV-RNA;2.23
+2100;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);43.32
+2100;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;54.13
+2100;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2100;S12;Strategy 12: POC HCV-RNA;2.22
+2150;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);44.37
+2150;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;53.1
+2150;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2150;S12;Strategy 12: POC HCV-RNA;2.21
+2200;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);45.23
+2200;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;52.18
+2200;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2200;S12;Strategy 12: POC HCV-RNA;2.28
+2250;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);46.32
+2250;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;51.07
+2250;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2250;S12;Strategy 12: POC HCV-RNA;2.29
+2300;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);47.24
+2300;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;50.16
+2300;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2300;S12;Strategy 12: POC HCV-RNA;2.3
+2350;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);48.04
+2350;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;49.35
+2350;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2350;S12;Strategy 12: POC HCV-RNA;2.31
+2400;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);48.97
+2400;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;48.41
+2400;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2400;S12;Strategy 12: POC HCV-RNA;2.32
+2450;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);49.87
+2450;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;47.48
+2450;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2450;S12;Strategy 12: POC HCV-RNA;2.33
+2500;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);50.81
+2500;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;46.52
+2500;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2500;S12;Strategy 12: POC HCV-RNA;2.33
+2550;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);51.49
+2550;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;45.85
+2550;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2550;S12;Strategy 12: POC HCV-RNA;2.33
+2600;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);52.39
+2600;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;44.93
+2600;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2600;S12;Strategy 12: POC HCV-RNA;2.36
+2650;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);53.18
+2650;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;44.14
+2650;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2650;S12;Strategy 12: POC HCV-RNA;2.36
+2700;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);53.86
+2700;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;43.46
+2700;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2700;S12;Strategy 12: POC HCV-RNA;2.34
+2750;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);54.6
+2750;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;42.7
+2750;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2750;S12;Strategy 12: POC HCV-RNA;2.36
+2800;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);55.26
+2800;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;42.08
+2800;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2800;S12;Strategy 12: POC HCV-RNA;2.32
+2850;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);55.88
+2850;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;41.51
+2850;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2850;S12;Strategy 12: POC HCV-RNA;2.27
+2900;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);56.54
+2900;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;40.84
+2900;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2900;S12;Strategy 12: POC HCV-RNA;2.28
+2950;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);57.17
+2950;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;40.21
+2950;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+2950;S12;Strategy 12: POC HCV-RNA;2.28
+3000;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);57.73
+3000;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;39.64
+3000;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3000;S12;Strategy 12: POC HCV-RNA;2.29
+3050;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);58.35
+3050;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;39.03
+3050;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3050;S12;Strategy 12: POC HCV-RNA;2.28
+3100;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);58.92
+3100;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;38.46
+3100;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3100;S12;Strategy 12: POC HCV-RNA;2.28
+3150;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);59.45
+3150;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;37.92
+3150;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3150;S12;Strategy 12: POC HCV-RNA;2.29
+3200;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);59.97
+3200;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;37.36
+3200;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3200;S12;Strategy 12: POC HCV-RNA;2.31
+3250;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);60.55
+3250;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;36.76
+3250;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3250;S12;Strategy 12: POC HCV-RNA;2.34
+3300;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);61.05
+3300;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;36.26
+3300;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3300;S12;Strategy 12: POC HCV-RNA;2.34
+3350;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);61.56
+3350;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;35.8
+3350;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3350;S12;Strategy 12: POC HCV-RNA;2.29
+3400;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);61.93
+3400;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;35.45
+3400;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3400;S12;Strategy 12: POC HCV-RNA;2.27
+3450;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);62.41
+3450;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;34.94
+3450;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3450;S12;Strategy 12: POC HCV-RNA;2.29
+3500;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);62.83
+3500;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;34.53
+3500;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3500;S12;Strategy 12: POC HCV-RNA;2.28
+3550;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);63.26
+3550;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;34.08
+3550;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3550;S12;Strategy 12: POC HCV-RNA;2.3
+3600;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);63.58
+3600;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;33.74
+3600;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3600;S12;Strategy 12: POC HCV-RNA;2.32
+3650;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);64.05
+3650;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;33.21
+3650;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3650;S12;Strategy 12: POC HCV-RNA;2.38
+3700;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);64.51
+3700;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;32.76
+3700;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3700;S12;Strategy 12: POC HCV-RNA;2.37
+3750;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);64.84
+3750;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;32.39
+3750;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3750;S12;Strategy 12: POC HCV-RNA;2.41
+3800;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);65.14
+3800;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;32.06
+3800;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3800;S12;Strategy 12: POC HCV-RNA;2.44
+3850;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);65.54
+3850;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;31.68
+3850;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3850;S12;Strategy 12: POC HCV-RNA;2.43
+3900;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);65.95
+3900;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;31.26
+3900;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3900;S12;Strategy 12: POC HCV-RNA;2.44
+3950;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);66.28
+3950;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;30.92
+3950;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+3950;S12;Strategy 12: POC HCV-RNA;2.45
+4000;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);66.67
+4000;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;30.52
+4000;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4000;S12;Strategy 12: POC HCV-RNA;2.46
+4050;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);67.01
+4050;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;30.17
+4050;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4050;S12;Strategy 12: POC HCV-RNA;2.47
+4100;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);67.34
+4100;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;29.83
+4100;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4100;S12;Strategy 12: POC HCV-RNA;2.48
+4150;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);67.69
+4150;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;29.45
+4150;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4150;S12;Strategy 12: POC HCV-RNA;2.51
+4200;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);67.98
+4200;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;29.12
+4200;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4200;S12;Strategy 12: POC HCV-RNA;2.54
+4250;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);68.19
+4250;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;28.91
+4250;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4250;S12;Strategy 12: POC HCV-RNA;2.54
+4300;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);68.47
+4300;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;28.59
+4300;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4300;S12;Strategy 12: POC HCV-RNA;2.57
+4350;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);68.83
+4350;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;28.19
+4350;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4350;S12;Strategy 12: POC HCV-RNA;2.6
+4400;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);69.1
+4400;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;27.92
+4400;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4400;S12;Strategy 12: POC HCV-RNA;2.6
+4450;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);69.43
+4450;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;27.54
+4450;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4450;S12;Strategy 12: POC HCV-RNA;2.65
+4500;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);69.62
+4500;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;27.32
+4500;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4500;S12;Strategy 12: POC HCV-RNA;2.68
+4550;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);69.87
+4550;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;27.03
+4550;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4550;S12;Strategy 12: POC HCV-RNA;2.72
+4600;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);70.12
+4600;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;26.77
+4600;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4600;S12;Strategy 12: POC HCV-RNA;2.73
+4650;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);70.36
+4650;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;26.48
+4650;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4650;S12;Strategy 12: POC HCV-RNA;2.77
+4700;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);70.6
+4700;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;26.26
+4700;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4700;S12;Strategy 12: POC HCV-RNA;2.75
+4750;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);70.83
+4750;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;26.02
+4750;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4750;S12;Strategy 12: POC HCV-RNA;2.76
+4800;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);71.14
+4800;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;25.72
+4800;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4800;S12;Strategy 12: POC HCV-RNA;2.75
+4850;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);71.35
+4850;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;25.5
+4850;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4850;S12;Strategy 12: POC HCV-RNA;2.77
+4900;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);71.6
+4900;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;25.25
+4900;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4900;S12;Strategy 12: POC HCV-RNA;2.77
+4950;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);71.83
+4950;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;25.03
+4950;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+4950;S12;Strategy 12: POC HCV-RNA;2.77
+5000;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);72.03
+5000;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;24.82
+5000;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);0
+5000;S12;Strategy 12: POC HCV-RNA;2.78

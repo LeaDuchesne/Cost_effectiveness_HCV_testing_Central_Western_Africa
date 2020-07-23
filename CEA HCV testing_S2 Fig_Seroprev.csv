@@ -1,0 +1,1213 @@
+seroprev;strat_name;strat_des;cost;domination
+0;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);18.199;dominated
+0;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+0;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+0;S12;Strategy 12: POC HCV-RNA;14.28;S12
+0;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);23.6796;dominated
+0;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);7.7398;S3
+0;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);7.7516;S4
+0;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;7.62856;S5
+0;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);17.843;dominated
+0;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);23.5372;dominated
+0;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);7.6686;dominated
+0;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);7.6804;dominated
+3;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);20.264545;dominated
+3;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+3;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+3;S12;Strategy 12: POC HCV-RNA;14.28;S12
+3;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);25.7132706;dominated
+3;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);9.822121;S3
+3;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);10.009682;S4
+3;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.0539612;S5
+3;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);18.856565;dominated
+3;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);24.5351242;dominated
+3;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);8.690397;dominated
+3;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);8.877958;dominated
+6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);22.33009;dominated
+6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);27.7469412;dominated
+6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);11.904442;S3
+6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);12.267764;S4
+6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.4793624;S5
+6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);19.87013;dominated
+6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);25.5330484;dominated
+6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);9.712194;dominated
+6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);10.075516;dominated
+9;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);24.395635;dominated
+9;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+9;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+9;S12;Strategy 12: POC HCV-RNA;14.28;S12
+9;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);29.7806118;dominated
+9;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);13.986763;S3
+9;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);14.525846;S4
+9;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.9047636;S5
+9;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);20.883695;dominated
+9;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);26.5309726;dominated
+9;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);10.733991;dominated
+9;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);11.273074;dominated
+12;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);26.46118;dominated
+12;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+12;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+12;S12;Strategy 12: POC HCV-RNA;14.28;S12
+12;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);31.8142824;dominated
+12;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);16.069084;S3
+12;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);16.783928;S4
+12;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;9.3301648;S5
+12;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);21.89726;dominated
+12;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);27.5288968;dominated
+12;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);11.755788;dominated
+12;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);12.470632;dominated
+15;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);28.526725;dominated
+15;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+15;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+15;S12;Strategy 12: POC HCV-RNA;14.28;S12
+15;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);33.847953;dominated
+15;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);18.151405;S3
+15;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);19.04201;S4
+15;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;9.755566;S5
+15;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);22.910825;dominated
+15;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);28.526821;dominated
+15;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);12.777585;dominated
+15;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);13.66819;dominated
+18;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);30.59227;dominated
+18;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+18;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+18;S12;Strategy 12: POC HCV-RNA;14.28;S12
+18;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);35.8816236;dominated
+18;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);20.233726;S3
+18;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);21.300092;S4
+18;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.1809672;S5
+18;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);23.92439;dominated
+18;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);29.5247452;dominated
+18;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);13.799382;dominated
+18;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);14.865748;dominated
+21;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);32.657815;dominated
+21;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+21;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+21;S12;Strategy 12: POC HCV-RNA;14.28;S12
+21;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);37.9152942;dominated
+21;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);22.316047;S3
+21;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);23.558174;S4
+21;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.6063684;S5
+21;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);24.937955;dominated
+21;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);30.5226694;dominated
+21;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);14.821179;dominated
+21;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);16.063306;dominated
+24;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);34.72336;dominated
+24;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+24;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+24;S12;Strategy 12: POC HCV-RNA;14.28;S12
+24;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);39.9489648;dominated
+24;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);24.398368;S3
+24;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);25.816256;S4
+24;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.0317696;S5
+24;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);25.95152;dominated
+24;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);31.5205936;dominated
+24;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);15.842976;dominated
+24;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);17.260864;dominated
+27;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);36.788905;dominated
+27;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+27;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+27;S12;Strategy 12: POC HCV-RNA;14.28;S12
+27;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);41.9826354;dominated
+27;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);26.480689;S3
+27;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);28.074338;S4
+27;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.4571708;S5
+27;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);26.965085;dominated
+27;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);32.5185178;dominated
+27;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);16.864773;dominated
+27;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);18.458422;dominated
+30;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);38.85445;dominated
+30;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+30;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+30;S12;Strategy 12: POC HCV-RNA;14.28;S12
+30;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);44.016306;dominated
+30;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);28.56301;S3
+30;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);30.33242;S4
+30;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.882572;S5
+30;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);27.97865;dominated
+30;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);33.516442;dominated
+30;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);17.88657;dominated
+30;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);19.65598;dominated
+33;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);40.919995;dominated
+33;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+33;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+33;S12;Strategy 12: POC HCV-RNA;14.28;S12
+33;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);46.0499766;dominated
+33;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);30.645331;S3
+33;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);32.590502;S4
+33;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.3079732;S5
+33;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);28.992215;dominated
+33;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);34.5143662;dominated
+33;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);18.908367;dominated
+33;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);20.853538;dominated
+36;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);42.98554;dominated
+36;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+36;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+36;S12;Strategy 12: POC HCV-RNA;14.28;S12
+36;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);48.0836472;dominated
+36;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);32.727652;S3
+36;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);34.848584;S4
+36;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.7333744;S5
+36;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);30.00578;dominated
+36;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);35.5122904;dominated
+36;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);19.930164;dominated
+36;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);22.051096;dominated
+39;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);45.051085;dominated
+39;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+39;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+39;S12;Strategy 12: POC HCV-RNA;14.28;S12
+39;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);50.1173178;dominated
+39;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);34.809973;S3
+39;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);37.106666;S4
+39;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;13.1587756;S5
+39;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);31.019345;dominated
+39;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);36.5102146;dominated
+39;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);20.951961;dominated
+39;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);23.248654;dominated
+42;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);47.11663;dominated
+42;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+42;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+42;S12;Strategy 12: POC HCV-RNA;14.28;S12
+42;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);52.1509884;dominated
+42;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);36.892294;S3
+42;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);39.364748;S4
+42;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;13.5841768;S5
+42;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);32.03291;dominated
+42;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);37.5081388;dominated
+42;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);21.973758;dominated
+42;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);24.446212;dominated
+45;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);49.182175;dominated
+45;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+45;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+45;S12;Strategy 12: POC HCV-RNA;14.28;S12
+45;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);54.184659;dominated
+45;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);38.974615;S3
+45;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);41.62283;S4
+45;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.009578;S5
+45;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);33.046475;dominated
+45;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);38.506063;dominated
+45;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);22.995555;dominated
+45;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);25.64377;dominated
+48;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);51.24772;dominated
+48;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+48;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+48;S12;Strategy 12: POC HCV-RNA;14.28;S12
+48;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);56.2183296;dominated
+48;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);41.056936;S3
+48;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);43.880912;S4
+48;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.4349792;S5
+48;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);34.06004;dominated
+48;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);39.5039872;dominated
+48;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);24.017352;dominated
+48;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);26.841328;dominated
+51;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);53.313265;dominated
+51;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+51;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+51;S12;Strategy 12: POC HCV-RNA;14.28;S12
+51;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);58.2520002;dominated
+51;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);43.139257;S3
+51;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);46.138994;S4
+51;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.8603804;S5
+51;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);35.073605;dominated
+51;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);40.5019114;dominated
+51;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);25.039149;dominated
+51;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);28.038886;dominated
+54;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);55.37881;dominated
+54;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+54;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+54;S12;Strategy 12: POC HCV-RNA;14.28;S12
+54;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);60.2856708;dominated
+54;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);45.221578;S3
+54;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);48.397076;S4
+54;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.2857816;S5
+54;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);36.08717;dominated
+54;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);41.4998356;dominated
+54;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);26.060946;dominated
+54;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);29.236444;dominated
+57;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);57.444355;dominated
+57;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+57;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+57;S12;Strategy 12: POC HCV-RNA;14.28;S12
+57;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);62.3193414;dominated
+57;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);47.303899;S3
+57;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);50.655158;S4
+57;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.7111828;S5
+57;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);37.100735;dominated
+57;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);42.4977598;dominated
+57;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);27.082743;dominated
+57;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);30.434002;dominated
+60;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);59.5099;dominated
+60;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+60;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+60;S12;Strategy 12: POC HCV-RNA;14.28;S12
+60;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);64.353012;dominated
+60;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);49.38622;S3
+60;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);52.91324;S4
+60;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;16.136584;S5
+60;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);38.1143;dominated
+60;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);43.495684;dominated
+60;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);28.10454;dominated
+60;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);31.63156;dominated
+0.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);18.612109;dominated
+0.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+0.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+0.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+0.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);24.08633412;dominated
+0.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);8.1562642;S3
+0.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);8.2032164;S4
+0.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;7.71364024;S5
+0.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);18.045713;dominated
+0.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);23.73678484;dominated
+0.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);7.8729594;dominated
+0.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);7.9199116;dominated
+1.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);19.025218;dominated
+1.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+1.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+1.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+1.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);24.49306824;dominated
+1.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);8.5727284;S3
+1.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);8.6548328;S4
+1.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;7.79872048;S5
+1.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);18.248426;dominated
+1.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);23.93636968;dominated
+1.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);8.0773188;dominated
+1.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);8.1594232;dominated
+1.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);19.438327;dominated
+1.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+1.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+1.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+1.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);24.89980236;dominated
+1.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);8.9891926;S3
+1.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);9.1064492;S4
+1.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;7.88380072;S5
+1.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);18.451139;dominated
+1.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);24.13595452;dominated
+1.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);8.2816782;dominated
+1.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);8.3989348;dominated
+10.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);25.221853;dominated
+10.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+10.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+10.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+10.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);30.59408004;dominated
+10.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);14.8196914;S3
+10.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);15.4290788;S4
+10.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;9.07492408;S5
+10.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);21.289121;dominated
+10.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);26.93014228;dominated
+10.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);11.1427098;dominated
+10.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);11.7520972;dominated
+10.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);25.634962;dominated
+10.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+10.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+10.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+10.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);31.00081416;dominated
+10.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);15.2361556;S3
+10.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);15.8806952;S4
+10.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;9.16000432;S5
+10.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);21.491834;dominated
+10.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);27.12972712;dominated
+10.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);11.3470692;dominated
+10.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);11.9916088;dominated
+11.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);26.048071;dominated
+11.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+11.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+11.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+11.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);31.40754828;dominated
+11.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);15.6526198;S3
+11.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);16.3323116;S4
+11.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;9.24508456;S5
+11.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);21.694547;dominated
+11.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);27.32931196;dominated
+11.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);11.5514286;dominated
+11.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);12.2311204;dominated
+12.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);26.874289;dominated
+12.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+12.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+12.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+12.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);32.22101652;dominated
+12.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);16.4855482;S3
+12.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);17.2355444;S4
+12.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;9.41524504;S5
+12.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);22.099973;dominated
+12.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);27.72848164;dominated
+12.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);11.9601474;dominated
+12.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);12.7101436;dominated
+13.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);27.287398;dominated
+13.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+13.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+13.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+13.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);32.62775064;dominated
+13.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);16.9020124;S3
+13.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);17.6871608;S4
+13.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;9.50032528;S5
+13.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);22.302686;dominated
+13.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);27.92806648;dominated
+13.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);12.1645068;dominated
+13.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);12.9496552;dominated
+13.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);27.700507;dominated
+13.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+13.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+13.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+13.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);33.03448476;dominated
+13.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);17.3184766;S3
+13.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);18.1387772;S4
+13.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;9.58540552;S5
+13.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);22.505399;dominated
+13.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);28.12765132;dominated
+13.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);12.3688662;dominated
+13.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);13.1891668;dominated
+14.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);28.113616;dominated
+14.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+14.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+14.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+14.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);33.44121888;dominated
+14.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);17.7349408;S3
+14.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);18.5903936;S4
+14.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;9.67048576;S5
+14.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);22.708112;dominated
+14.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);28.32723616;dominated
+14.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);12.5732256;dominated
+14.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);13.4286784;dominated
+15.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);28.939834;dominated
+15.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+15.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+15.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+15.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);34.25468712;dominated
+15.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);18.5678692;S3
+15.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);19.4936264;S4
+15.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;9.84064624;S5
+15.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);23.113538;dominated
+15.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);28.72640584;dominated
+15.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);12.9819444;dominated
+15.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);13.9077016;dominated
+16.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);29.352943;dominated
+16.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+16.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+16.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+16.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);34.66142124;dominated
+16.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);18.9843334;S3
+16.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);19.9452428;S4
+16.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;9.92572648;S5
+16.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);23.316251;dominated
+16.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);28.92599068;dominated
+16.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);13.1863038;dominated
+16.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);14.1472132;dominated
+16.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);29.766052;dominated
+16.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+16.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+16.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+16.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);35.06815536;dominated
+16.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);19.4007976;S3
+16.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);20.3968592;S4
+16.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.01080672;S5
+16.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);23.518964;dominated
+16.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);29.12557552;dominated
+16.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);13.3906632;dominated
+16.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);14.3867248;dominated
+17.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);30.179161;dominated
+17.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+17.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+17.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+17.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);35.47488948;dominated
+17.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);19.8172618;S3
+17.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);20.8484756;S4
+17.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.09588696;S5
+17.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);23.721677;dominated
+17.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);29.32516036;dominated
+17.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);13.5950226;dominated
+17.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);14.6262364;dominated
+18.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);31.005379;dominated
+18.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+18.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+18.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+18.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);36.28835772;dominated
+18.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);20.6501902;S3
+18.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);21.7517084;S4
+18.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.26604744;S5
+18.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);24.127103;dominated
+18.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);29.72433004;dominated
+18.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);14.0037414;dominated
+18.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);15.1052596;dominated
+19.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);31.418488;dominated
+19.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+19.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+19.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+19.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);36.69509184;dominated
+19.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);21.0666544;S3
+19.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);22.2033248;S4
+19.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.35112768;S5
+19.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);24.329816;dominated
+19.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);29.92391488;dominated
+19.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);14.2081008;dominated
+19.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);15.3447712;dominated
+19.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);31.831597;dominated
+19.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+19.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+19.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+19.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);37.10182596;dominated
+19.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);21.4831186;S3
+19.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);22.6549412;S4
+19.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.43620792;S5
+19.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);24.532529;dominated
+19.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);30.12349972;dominated
+19.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);14.4124602;dominated
+19.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);15.5842828;dominated
+2.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);19.851436;dominated
+2.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+2.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+2.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+2.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);25.30653648;dominated
+2.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);9.4056568;S3
+2.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);9.5580656;S4
+2.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;7.96888096;S5
+2.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);18.653852;dominated
+2.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);24.33553936;dominated
+2.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);8.4860376;dominated
+2.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);8.6384464;dominated
+20.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);32.244706;dominated
+20.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+20.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+20.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+20.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);37.50856008;dominated
+20.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);21.8995828;S3
+20.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);23.1065576;S4
+20.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.52128816;S5
+20.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);24.735242;dominated
+20.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);30.32308456;dominated
+20.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);14.6168196;dominated
+20.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);15.8237944;dominated
+21.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);33.070924;dominated
+21.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+21.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+21.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+21.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);38.32202832;dominated
+21.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);22.7325112;S3
+21.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);24.0097904;S4
+21.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.69144864;S5
+21.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);25.140668;dominated
+21.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);30.72225424;dominated
+21.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);15.0255384;dominated
+21.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);16.3028176;dominated
+22.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);33.484033;dominated
+22.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+22.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+22.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+22.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);38.72876244;dominated
+22.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);23.1489754;S3
+22.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);24.4614068;S4
+22.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.77652888;S5
+22.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);25.343381;dominated
+22.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);30.92183908;dominated
+22.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);15.2298978;dominated
+22.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);16.5423292;dominated
+22.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);33.897142;dominated
+22.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+22.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+22.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+22.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);39.13549656;dominated
+22.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);23.5654396;S3
+22.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);24.9130232;S4
+22.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.86160912;S5
+22.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);25.546094;dominated
+22.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);31.12142392;dominated
+22.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);15.4342572;dominated
+22.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);16.7818408;dominated
+23.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);34.310251;dominated
+23.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+23.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+23.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+23.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);39.54223068;dominated
+23.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);23.9819038;S3
+23.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);25.3646396;S4
+23.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;10.94668936;S5
+23.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);25.748807;dominated
+23.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);31.32100876;dominated
+23.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);15.6386166;dominated
+23.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);17.0213524;dominated
+24.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);35.136469;dominated
+24.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+24.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+24.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+24.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);40.35569892;dominated
+24.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);24.8148322;S3
+24.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);26.2678724;S4
+24.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.11684984;S5
+24.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);26.154233;dominated
+24.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);31.72017844;dominated
+24.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);16.0473354;dominated
+24.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);17.5003756;dominated
+25.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);35.549578;dominated
+25.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+25.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+25.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+25.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);40.76243304;dominated
+25.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);25.2312964;S3
+25.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);26.7194888;S4
+25.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.20193008;S5
+25.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);26.356946;dominated
+25.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);31.91976328;dominated
+25.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);16.2516948;dominated
+25.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);17.7398872;dominated
+25.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);35.962687;dominated
+25.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+25.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+25.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+25.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);41.16916716;dominated
+25.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);25.6477606;S3
+25.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);27.1711052;S4
+25.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.28701032;S5
+25.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);26.559659;dominated
+25.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);32.11934812;dominated
+25.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);16.4560542;dominated
+25.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);17.9793988;dominated
+26.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);36.375796;dominated
+26.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+26.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+26.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+26.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);41.57590128;dominated
+26.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);26.0642248;S3
+26.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);27.6227216;S4
+26.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.37209056;S5
+26.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);26.762372;dominated
+26.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);32.31893296;dominated
+26.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);16.6604136;dominated
+26.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);18.2189104;dominated
+27.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);37.202014;dominated
+27.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+27.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+27.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+27.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);42.38936952;dominated
+27.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);26.8971532;S3
+27.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);28.5259544;S4
+27.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.54225104;S5
+27.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);27.167798;dominated
+27.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);32.71810264;dominated
+27.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);17.0691324;dominated
+27.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);18.6979336;dominated
+28.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);37.615123;dominated
+28.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+28.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+28.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+28.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);42.79610364;dominated
+28.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);27.3136174;S3
+28.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);28.9775708;S4
+28.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.62733128;S5
+28.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);27.370511;dominated
+28.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);32.91768748;dominated
+28.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);17.2734918;dominated
+28.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);18.9374452;dominated
+28.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);38.028232;dominated
+28.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+28.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+28.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+28.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);43.20283776;dominated
+28.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);27.7300816;S3
+28.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);29.4291872;S4
+28.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.71241152;S5
+28.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);27.573224;dominated
+28.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);33.11727232;dominated
+28.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);17.4778512;dominated
+28.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);19.1769568;dominated
+29.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);38.441341;dominated
+29.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+29.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+29.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+29.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);43.60957188;dominated
+29.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);28.1465458;S3
+29.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);29.8808036;S4
+29.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.79749176;S5
+29.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);27.775937;dominated
+29.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);33.31685716;dominated
+29.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);17.6822106;dominated
+29.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);19.4164684;dominated
+3.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);20.677654;dominated
+3.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+3.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+3.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+3.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);26.12000472;dominated
+3.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);10.2385852;S3
+3.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);10.4612984;S4
+3.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.13904144;S5
+3.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);19.059278;dominated
+3.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);24.73470904;dominated
+3.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);8.8947564;dominated
+3.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);9.1174696;dominated
+30.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);39.267559;dominated
+30.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+30.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+30.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+30.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);44.42304012;dominated
+30.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);28.9794742;S3
+30.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);30.7840364;S4
+30.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;11.96765224;S5
+30.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);28.181363;dominated
+30.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);33.71602684;dominated
+30.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);18.0909294;dominated
+30.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);19.8954916;dominated
+31.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);39.680668;dominated
+31.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+31.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+31.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+31.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);44.82977424;dominated
+31.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);29.3959384;S3
+31.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);31.2356528;S4
+31.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.05273248;S5
+31.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);28.384076;dominated
+31.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);33.91561168;dominated
+31.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);18.2952888;dominated
+31.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);20.1350032;dominated
+31.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);40.093777;dominated
+31.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+31.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+31.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+31.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);45.23650836;dominated
+31.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);29.8124026;S3
+31.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);31.6872692;S4
+31.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.13781272;S5
+31.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);28.586789;dominated
+31.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);34.11519652;dominated
+31.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);18.4996482;dominated
+31.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);20.3745148;dominated
+32.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);40.506886;dominated
+32.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+32.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+32.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+32.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);45.64324248;dominated
+32.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);30.2288668;S3
+32.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);32.1388856;S4
+32.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.22289296;S5
+32.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);28.789502;dominated
+32.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);34.31478136;dominated
+32.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);18.7040076;dominated
+32.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);20.6140264;dominated
+33.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);41.333104;dominated
+33.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+33.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+33.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+33.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);46.45671072;dominated
+33.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);31.0617952;S3
+33.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);33.0421184;S4
+33.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.39305344;S5
+33.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);29.194928;dominated
+33.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);34.71395104;dominated
+33.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);19.1127264;dominated
+33.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);21.0930496;dominated
+34.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);41.746213;dominated
+34.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+34.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+34.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+34.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);46.86344484;dominated
+34.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);31.4782594;S3
+34.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);33.4937348;S4
+34.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.47813368;S5
+34.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);29.397641;dominated
+34.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);34.91353588;dominated
+34.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);19.3170858;dominated
+34.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);21.3325612;dominated
+34.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);42.159322;dominated
+34.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+34.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+34.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+34.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);47.27017896;dominated
+34.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);31.8947236;S3
+34.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);33.9453512;S4
+34.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.56321392;S5
+34.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);29.600354;dominated
+34.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);35.11312072;dominated
+34.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);19.5214452;dominated
+34.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);21.5720728;dominated
+35.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);42.572431;dominated
+35.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+35.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+35.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+35.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);47.67691308;dominated
+35.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);32.3111878;S3
+35.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);34.3969676;S4
+35.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.64829416;S5
+35.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);29.803067;dominated
+35.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);35.31270556;dominated
+35.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);19.7258046;dominated
+35.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);21.8115844;dominated
+36.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);43.398649;dominated
+36.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+36.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+36.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+36.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);48.49038132;dominated
+36.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);33.1441162;S3
+36.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);35.3002004;S4
+36.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.81845464;S5
+36.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);30.208493;dominated
+36.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);35.71187524;dominated
+36.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);20.1345234;dominated
+36.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);22.2906076;dominated
+37.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);43.811758;dominated
+37.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+37.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+37.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+37.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);48.89711544;dominated
+37.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);33.5605804;S3
+37.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);35.7518168;S4
+37.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.90353488;S5
+37.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);30.411206;dominated
+37.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);35.91146008;dominated
+37.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);20.3388828;dominated
+37.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);22.5301192;dominated
+37.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);44.224867;dominated
+37.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+37.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+37.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+37.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);49.30384956;dominated
+37.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);33.9770446;S3
+37.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);36.2034332;S4
+37.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;12.98861512;S5
+37.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);30.613919;dominated
+37.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);36.11104492;dominated
+37.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);20.5432422;dominated
+37.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);22.7696308;dominated
+38.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);44.637976;dominated
+38.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+38.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+38.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+38.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);49.71058368;dominated
+38.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);34.3935088;S3
+38.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);36.6550496;S4
+38.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;13.07369536;S5
+38.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);30.816632;dominated
+38.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);36.31062976;dominated
+38.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);20.7476016;dominated
+38.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);23.0091424;dominated
+39.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);45.464194;dominated
+39.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+39.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+39.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+39.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);50.52405192;dominated
+39.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);35.2264372;S3
+39.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);37.5582824;S4
+39.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;13.24385584;S5
+39.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);31.222058;dominated
+39.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);36.70979944;dominated
+39.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);21.1563204;dominated
+39.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);23.4881656;dominated
+4.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);21.090763;dominated
+4.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+4.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+4.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+4.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);26.52673884;dominated
+4.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);10.6550494;S3
+4.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);10.9129148;S4
+4.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.22412168;S5
+4.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);19.261991;dominated
+4.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);24.93429388;dominated
+4.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);9.0991158;dominated
+4.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);9.3569812;dominated
+4.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);21.503872;dominated
+4.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+4.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+4.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+4.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);26.93347296;dominated
+4.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);11.0715136;S3
+4.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);11.3645312;S4
+4.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.30920192;S5
+4.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);19.464704;dominated
+4.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);25.13387872;dominated
+4.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);9.3034752;dominated
+4.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);9.5964928;dominated
+40.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);45.877303;dominated
+40.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+40.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+40.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+40.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);50.93078604;dominated
+40.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);35.6429014;S3
+40.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);38.0098988;S4
+40.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;13.32893608;S5
+40.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);31.424771;dominated
+40.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);36.90938428;dominated
+40.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);21.3606798;dominated
+40.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);23.7276772;dominated
+40.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);46.290412;dominated
+40.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+40.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+40.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+40.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);51.33752016;dominated
+40.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);36.0593656;S3
+40.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);38.4615152;S4
+40.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;13.41401632;S5
+40.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);31.627484;dominated
+40.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);37.10896912;dominated
+40.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);21.5650392;dominated
+40.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);23.9671888;dominated
+41.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);46.703521;dominated
+41.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+41.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+41.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+41.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);51.74425428;dominated
+41.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);36.4758298;S3
+41.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);38.9131316;S4
+41.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;13.49909656;S5
+41.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);31.830197;dominated
+41.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);37.30855396;dominated
+41.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);21.7693986;dominated
+41.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);24.2067004;dominated
+42.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);47.529739;dominated
+42.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+42.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+42.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+42.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);52.55772252;dominated
+42.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);37.3087582;S3
+42.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);39.8163644;S4
+42.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;13.66925704;S5
+42.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);32.235623;dominated
+42.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);37.70772364;dominated
+42.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);22.1781174;dominated
+42.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);24.6857236;dominated
+43.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);47.942848;dominated
+43.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+43.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+43.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+43.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);52.96445664;dominated
+43.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);37.7252224;S3
+43.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);40.2679808;S4
+43.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;13.75433728;S5
+43.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);32.438336;dominated
+43.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);37.90730848;dominated
+43.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);22.3824768;dominated
+43.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);24.9252352;dominated
+43.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);48.355957;dominated
+43.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+43.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+43.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+43.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);53.37119076;dominated
+43.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);38.1416866;S3
+43.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);40.7195972;S4
+43.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;13.83941752;S5
+43.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);32.641049;dominated
+43.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);38.10689332;dominated
+43.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);22.5868362;dominated
+43.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);25.1647468;dominated
+44.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);48.769066;dominated
+44.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+44.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+44.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+44.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);53.77792488;dominated
+44.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);38.5581508;S3
+44.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);41.1712136;S4
+44.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;13.92449776;S5
+44.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);32.843762;dominated
+44.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);38.30647816;dominated
+44.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);22.7911956;dominated
+44.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);25.4042584;dominated
+45.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);49.595284;dominated
+45.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+45.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+45.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+45.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);54.59139312;dominated
+45.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);39.3910792;S3
+45.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);42.0744464;S4
+45.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.09465824;S5
+45.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);33.249188;dominated
+45.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);38.70564784;dominated
+45.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);23.1999144;dominated
+45.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);25.8832816;dominated
+46.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);50.008393;dominated
+46.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+46.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+46.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+46.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);54.99812724;dominated
+46.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);39.8075434;S3
+46.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);42.5260628;S4
+46.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.17973848;S5
+46.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);33.451901;dominated
+46.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);38.90523268;dominated
+46.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);23.4042738;dominated
+46.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);26.1227932;dominated
+46.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);50.421502;dominated
+46.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+46.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+46.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+46.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);55.40486136;dominated
+46.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);40.2240076;S3
+46.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);42.9776792;S4
+46.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.26481872;S5
+46.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);33.654614;dominated
+46.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);39.10481752;dominated
+46.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);23.6086332;dominated
+46.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);26.3623048;dominated
+47.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);50.834611;dominated
+47.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+47.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+47.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+47.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);55.81159548;dominated
+47.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);40.6404718;S3
+47.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);43.4292956;S4
+47.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.34989896;S5
+47.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);33.857327;dominated
+47.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);39.30440236;dominated
+47.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);23.8129926;dominated
+47.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);26.6018164;dominated
+48.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);51.660829;dominated
+48.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+48.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+48.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+48.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);56.62506372;dominated
+48.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);41.4734002;S3
+48.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);44.3325284;S4
+48.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.52005944;S5
+48.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);34.262753;dominated
+48.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);39.70357204;dominated
+48.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);24.2217114;dominated
+48.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);27.0808396;dominated
+49.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);52.073938;dominated
+49.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+49.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+49.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+49.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);57.03179784;dominated
+49.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);41.8898644;S3
+49.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);44.7841448;S4
+49.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.60513968;S5
+49.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);34.465466;dominated
+49.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);39.90315688;dominated
+49.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);24.4260708;dominated
+49.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);27.3203512;dominated
+49.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);52.487047;dominated
+49.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+49.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+49.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+49.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);57.43853196;dominated
+49.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);42.3063286;S3
+49.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);45.2357612;S4
+49.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.69021992;S5
+49.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);34.668179;dominated
+49.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);40.10274172;dominated
+49.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);24.6304302;dominated
+49.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);27.5598628;dominated
+5.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);21.916981;dominated
+5.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+5.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+5.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+5.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);27.34020708;dominated
+5.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);11.4879778;S3
+5.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);11.8161476;S4
+5.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.39428216;S5
+5.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);19.667417;dominated
+5.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);25.33346356;dominated
+5.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);9.5078346;dominated
+5.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);9.8360044;dominated
+50.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);52.900156;dominated
+50.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+50.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+50.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+50.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);57.84526608;dominated
+50.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);42.7227928;S3
+50.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);45.6873776;S4
+50.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.77530016;S5
+50.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);34.870892;dominated
+50.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);40.30232656;dominated
+50.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);24.8347896;dominated
+50.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);27.7993744;dominated
+51.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);53.726374;dominated
+51.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+51.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+51.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+51.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);58.65873432;dominated
+51.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);43.5557212;S3
+51.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);46.5906104;S4
+51.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;14.94546064;S5
+51.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);35.276318;dominated
+51.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);40.70149624;dominated
+51.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);25.2435084;dominated
+51.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);28.2783976;dominated
+52.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);54.139483;dominated
+52.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+52.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+52.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+52.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);59.06546844;dominated
+52.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);43.9721854;S3
+52.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);47.0422268;S4
+52.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.03054088;S5
+52.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);35.479031;dominated
+52.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);40.90108108;dominated
+52.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);25.4478678;dominated
+52.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);28.5179092;dominated
+52.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);54.552592;dominated
+52.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+52.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+52.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+52.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);59.47220256;dominated
+52.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);44.3886496;S3
+52.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);47.4938432;S4
+52.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.11562112;S5
+52.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);35.681744;dominated
+52.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);41.10066592;dominated
+52.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);25.6522272;dominated
+52.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);28.7574208;dominated
+53.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);54.965701;dominated
+53.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+53.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+53.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+53.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);59.87893668;dominated
+53.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);44.8051138;S3
+53.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);47.9454596;S4
+53.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.20070136;S5
+53.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);35.884457;dominated
+53.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);41.30025076;dominated
+53.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);25.8565866;dominated
+53.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);28.9969324;dominated
+54.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);55.791919;dominated
+54.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+54.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+54.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+54.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);60.69240492;dominated
+54.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);45.6380422;S3
+54.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);48.8486924;S4
+54.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.37086184;S5
+54.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);36.289883;dominated
+54.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);41.69942044;dominated
+54.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);26.2653054;dominated
+54.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);29.4759556;dominated
+55.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);56.205028;dominated
+55.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+55.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+55.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+55.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);61.09913904;dominated
+55.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);46.0545064;S3
+55.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);49.3003088;S4
+55.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.45594208;S5
+55.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);36.492596;dominated
+55.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);41.89900528;dominated
+55.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);26.4696648;dominated
+55.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);29.7154672;dominated
+55.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);56.618137;dominated
+55.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+55.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+55.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+55.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);61.50587316;dominated
+55.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);46.4709706;S3
+55.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);49.7519252;S4
+55.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.54102232;S5
+55.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);36.695309;dominated
+55.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);42.09859012;dominated
+55.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);26.6740242;dominated
+55.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);29.9549788;dominated
+56.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);57.031246;dominated
+56.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+56.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+56.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+56.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);61.91260728;dominated
+56.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);46.8874348;S3
+56.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);50.2035416;S4
+56.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.62610256;S5
+56.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);36.898022;dominated
+56.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);42.29817496;dominated
+56.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);26.8783836;dominated
+56.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);30.1944904;dominated
+57.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);57.857464;dominated
+57.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+57.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+57.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+57.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);62.72607552;dominated
+57.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);47.7203632;S3
+57.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);51.1067744;S4
+57.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.79626304;S5
+57.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);37.303448;dominated
+57.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);42.69734464;dominated
+57.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);27.2871024;dominated
+57.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);30.6735136;dominated
+58.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);58.270573;dominated
+58.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+58.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+58.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+58.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);63.13280964;dominated
+58.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);48.1368274;S3
+58.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);51.5583908;S4
+58.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.88134328;S5
+58.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);37.506161;dominated
+58.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);42.89692948;dominated
+58.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);27.4914618;dominated
+58.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);30.9130252;dominated
+58.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);58.683682;dominated
+58.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+58.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+58.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+58.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);63.53954376;dominated
+58.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);48.5532916;S3
+58.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);52.0100072;S4
+58.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;15.96642352;S5
+58.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);37.708874;dominated
+58.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);43.09651432;dominated
+58.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);27.6958212;dominated
+58.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);31.1525368;dominated
+59.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);59.096791;dominated
+59.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+59.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+59.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+59.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);63.94627788;dominated
+59.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);48.9697558;S3
+59.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);52.4616236;S4
+59.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;16.05150376;S5
+59.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);37.911587;dominated
+59.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);43.29609916;dominated
+59.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);27.9001806;dominated
+59.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);31.3920484;dominated
+6.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);22.743199;dominated
+6.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+6.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+6.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+6.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);28.15367532;dominated
+6.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);12.3209062;S3
+6.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);12.7193804;S4
+6.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.56444264;S5
+6.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);20.072843;dominated
+6.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);25.73263324;dominated
+6.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);9.9165534;dominated
+6.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);10.3150276;dominated
+7.2;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);23.156308;dominated
+7.2;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+7.2;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+7.2;S12;Strategy 12: POC HCV-RNA;14.28;S12
+7.2;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);28.56040944;dominated
+7.2;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);12.7373704;S3
+7.2;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);13.1709968;S4
+7.2;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.64952288;S5
+7.2;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);20.275556;dominated
+7.2;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);25.93221808;dominated
+7.2;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);10.1209128;dominated
+7.2;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);10.5545392;dominated
+7.8;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);23.569417;dominated
+7.8;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+7.8;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+7.8;S12;Strategy 12: POC HCV-RNA;14.28;S12
+7.8;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);28.96714356;dominated
+7.8;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);13.1538346;S3
+7.8;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);13.6226132;S4
+7.8;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.73460312;S5
+7.8;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);20.478269;dominated
+7.8;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);26.13180292;dominated
+7.8;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);10.3252722;dominated
+7.8;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);10.7940508;dominated
+8.4;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);23.982526;dominated
+8.4;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+8.4;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+8.4;S12;Strategy 12: POC HCV-RNA;14.28;S12
+8.4;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);29.37387768;dominated
+8.4;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);13.5702988;S3
+8.4;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);14.0742296;S4
+8.4;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.81968336;S5
+8.4;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);20.680982;dominated
+8.4;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);26.33138776;dominated
+8.4;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);10.5296316;dominated
+8.4;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);11.0335624;dominated
+9.6;Sref;Reference strategy : Lab HCV-Ab (venepuncture) + Lab HCV-RNA (venepuncture);24.808744;dominated
+9.6;S10;Strategy 10: Lab HCV-cAg (venepuncture);34.3;dominated
+9.6;S11;Strategy 11: Lab HCV-cAg (DBS);40.2;dominated
+9.6;S12;Strategy 12: POC HCV-RNA;14.28;S12
+9.6;S2;Strategy 2 : Lab HCV-Ab (DBS) + Lab HCV-RNA (DBS);30.18734592;dominated
+9.6;S3;Strategy 3 : POC HCV-Ab + Lab HCV-RNA (venepuncture);14.4032272;S3
+9.6;S4;Strategy 4 : POC HCV-Ab + Lab HCV-RNA (DBS);14.9774624;S4
+9.6;S5;Strategy 5: POC HCV-Ab + POC HCV-RNA;8.98984384;S5
+9.6;S6;Strategy 6: Lab HCV-Ab (venepuncture) + Lab HCV-cAg (venepuncture);21.086408;dominated
+9.6;S7;Strategy 7: Lab HCV-Ab (DBS) + Lab HCV-cAg (DBS);26.73055744;dominated
+9.6;S8;Strategy 8: POC HCV-Ab + Lab HCV-cAg (venepuncture);10.9383504;dominated
+9.6;S9;Strategy 9: POC HCV-Ab + Lab HCV-cAg (DBS);11.5125856;dominated

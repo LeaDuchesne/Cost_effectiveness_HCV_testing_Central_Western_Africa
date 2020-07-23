@@ -1,0 +1,19 @@
+var_name;var_des;var_value;var_bound;EV_icer;EV_icer_type;EV_icer_spread
+c_rna_lab;Cost of laboratory HCV-RNA test (€45 - €95);45;bound_low;2196.215863;icer_low;2998.656285
+seroprev;HCV seroprevalence;0.01;bound_high;3520.139363;icer_low;694.8418282
+sp_ab_rdt;Specificity of HCV-Ab RDT;0.996;bound_high;3602.487632;icer_low;261.1771826
+c_rna_poc_cartouche;Cost of HCV-RNA POC cartridge (€9.8 - €16.68);9.88;bound_high;3689.546693;icer_low;227.8978777
+c_transp_dbs;Cost of DBS transportation from POC to laboratory (€1.5 - €4.5);1.5;bound_low;3599.587005;icer_low;179.9193771
+c_mat_dbs;Cost of DBS sampling (€1.45 - €4.35);1.45;bound_low;3602.585661;icer_low;173.9220645
+c_rna_poc_personnel;Cost of healthcare worker time for HCV-RNA POC (€0.4 - €0.8);0.4;bound_high;3677.552068;icer_low;23.98925028
+se_ab_rdt;Sensitivity of HCV-Ab RDT;0.989;bound_high;3689.023292;icer_low;1.57972951
+se_rna_poc;Sensitivity of HCV-RNA POC test;0.845;bound_low;683.25;icer_low;NA
+c_rna_lab;Cost of laboratory HCV-RNA test (€45 - €95);95;bound_high;5194.872148;icer_high;2998.656285
+seroprev;HCV seroprevalence;0.6;bound_low;4214.981192;icer_high;694.8418282
+sp_ab_rdt;Specificity of HCV-Ab RDT;0.999;bound_low;3863.664815;icer_high;261.1771826
+c_rna_poc_cartouche;Cost of HCV-RNA POC cartridge (€9.8 - €16.68);13.68;bound_low;3917.444571;icer_high;227.8978777
+c_transp_dbs;Cost of DBS transportation from POC to laboratory (€1.5 - €4.5);4.5;bound_high;3779.506382;icer_high;179.9193771
+c_mat_dbs;Cost of DBS sampling (€1.45 - €4.35);4.35;bound_high;3776.507725;icer_high;173.9220645
+c_rna_poc_personnel;Cost of healthcare worker time for HCV-RNA POC (€0.4 - €0.8);0.8;bound_low;3701.541318;icer_high;23.98925028
+se_ab_rdt;Sensitivity of HCV-Ab RDT;0.998;bound_low;3690.603022;icer_high;1.57972951
+se_rna_poc;Sensitivity of HCV-RNA POC test;0.96234;bound_high;5222.29;icer_high;NA

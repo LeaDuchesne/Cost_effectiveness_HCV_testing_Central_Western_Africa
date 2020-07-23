@@ -1,0 +1,49 @@
+ltfu_range;strat_name;strat_des;se_strat;sequence;sample_type
+0;S8;Strategy 8: Ab (RDT) + cAg (lab). Venous blood;92.933;POC HCV-Ab - Lab HCV-cAg;Venepuncture
+0;S3;Strategy 3 : Ab (RDT) + rna (lab). venous blood;99.4005;POC HCV-Ab - Lab HCV-RNA;Venepuncture
+10;S8;Strategy 8: Ab (RDT) + cAg (lab). Venous blood;83.6397;POC HCV-Ab - Lab HCV-cAg;Venepuncture
+10;S3;Strategy 3 : Ab (RDT) + rna (lab). venous blood;89.46045;POC HCV-Ab - Lab HCV-RNA;Venepuncture
+20;S8;Strategy 8: Ab (RDT) + cAg (lab). Venous blood;74.3464;POC HCV-Ab - Lab HCV-cAg;Venepuncture
+20;S3;Strategy 3 : Ab (RDT) + rna (lab). venous blood;79.5204;POC HCV-Ab - Lab HCV-RNA;Venepuncture
+30;S8;Strategy 8: Ab (RDT) + cAg (lab). Venous blood;65.0531;POC HCV-Ab - Lab HCV-cAg;Venepuncture
+30;S3;Strategy 3 : Ab (RDT) + rna (lab). venous blood;69.58035;POC HCV-Ab - Lab HCV-RNA;Venepuncture
+40;S8;Strategy 8: Ab (RDT) + cAg (lab). Venous blood;55.7598;POC HCV-Ab - Lab HCV-cAg;Venepuncture
+40;S3;Strategy 3 : Ab (RDT) + rna (lab). venous blood;59.6403;POC HCV-Ab - Lab HCV-RNA;Venepuncture
+50;S8;Strategy 8: Ab (RDT) + cAg (lab). Venous blood;46.4665;POC HCV-Ab - Lab HCV-cAg;Venepuncture
+50;S3;Strategy 3 : Ab (RDT) + rna (lab). venous blood;49.70025;POC HCV-Ab - Lab HCV-RNA;Venepuncture
+0;S9;Strategy 9: Ab (RDT) + cAg (lab). DBS;76.3165;POC HCV-Ab - Lab HCV-cAg;DBS
+0;S4;Strategy 4 : Ab (RDT) + RNA (lab) - DBS;97.51;POC HCV-Ab - Lab HCV-RNA;DBS
+0;S6;Strategy 6: Ab (lab) + cAg (lab). Venous blood;92.933;Lab HCV-Ab - Lab HCV-cAg;Venepuncture
+0;Sref;Reference strategy : Ab (lab) + rna (lab). Venous blood;99.4005;Lab HCV-Ab - Lab HCV-RNA;Venepuncture
+0;S7;Strategy 7: Ab (lab) + cAg (lab). DBS;74.69046;Lab HCV-Ab - Lab HCV-cAg;DBS
+0;S2;Strategy 2 : Ab (lab) + rna (lab). DBS;95.4324;Lab HCV-Ab - Lab HCV-RNA;DBS
+10;S9;Strategy 9: Ab (RDT) + cAg (lab). DBS;76.3165;POC HCV-Ab - Lab HCV-cAg;DBS
+10;S4;Strategy 4 : Ab (RDT) + RNA (lab) - DBS;97.51;POC HCV-Ab - Lab HCV-RNA;DBS
+10;S6;Strategy 6: Ab (lab) + cAg (lab). Venous blood;83.6397;Lab HCV-Ab - Lab HCV-cAg;Venepuncture
+10;Sref;Reference strategy : Ab (lab) + rna (lab). Venous blood;89.46045;Lab HCV-Ab - Lab HCV-RNA;Venepuncture
+10;S7;Strategy 7: Ab (lab) + cAg (lab). DBS;74.69046;Lab HCV-Ab - Lab HCV-cAg;DBS
+10;S2;Strategy 2 : Ab (lab) + rna (lab). DBS;95.4324;Lab HCV-Ab - Lab HCV-RNA;DBS
+20;S9;Strategy 9: Ab (RDT) + cAg (lab). DBS;76.3165;POC HCV-Ab - Lab HCV-cAg;DBS
+20;S4;Strategy 4 : Ab (RDT) + RNA (lab) - DBS;97.51;POC HCV-Ab - Lab HCV-RNA;DBS
+20;S6;Strategy 6: Ab (lab) + cAg (lab). Venous blood;74.3464;Lab HCV-Ab - Lab HCV-cAg;Venepuncture
+20;Sref;Reference strategy : Ab (lab) + rna (lab). Venous blood;79.5204;Lab HCV-Ab - Lab HCV-RNA;Venepuncture
+20;S7;Strategy 7: Ab (lab) + cAg (lab). DBS;74.69046;Lab HCV-Ab - Lab HCV-cAg;DBS
+20;S2;Strategy 2 : Ab (lab) + rna (lab). DBS;95.4324;Lab HCV-Ab - Lab HCV-RNA;DBS
+30;S9;Strategy 9: Ab (RDT) + cAg (lab). DBS;76.3165;POC HCV-Ab - Lab HCV-cAg;DBS
+30;S4;Strategy 4 : Ab (RDT) + RNA (lab) - DBS;97.51;POC HCV-Ab - Lab HCV-RNA;DBS
+30;S6;Strategy 6: Ab (lab) + cAg (lab). Venous blood;65.0531;Lab HCV-Ab - Lab HCV-cAg;Venepuncture
+30;Sref;Reference strategy : Ab (lab) + rna (lab). Venous blood;69.58035;Lab HCV-Ab - Lab HCV-RNA;Venepuncture
+30;S7;Strategy 7: Ab (lab) + cAg (lab). DBS;74.69046;Lab HCV-Ab - Lab HCV-cAg;DBS
+30;S2;Strategy 2 : Ab (lab) + rna (lab). DBS;95.4324;Lab HCV-Ab - Lab HCV-RNA;DBS
+40;S9;Strategy 9: Ab (RDT) + cAg (lab). DBS;76.3165;POC HCV-Ab - Lab HCV-cAg;DBS
+40;S4;Strategy 4 : Ab (RDT) + RNA (lab) - DBS;97.51;POC HCV-Ab - Lab HCV-RNA;DBS
+40;S6;Strategy 6: Ab (lab) + cAg (lab). Venous blood;55.7598;Lab HCV-Ab - Lab HCV-cAg;Venepuncture
+40;Sref;Reference strategy : Ab (lab) + rna (lab). Venous blood;59.6403;Lab HCV-Ab - Lab HCV-RNA;Venepuncture
+40;S7;Strategy 7: Ab (lab) + cAg (lab). DBS;74.69046;Lab HCV-Ab - Lab HCV-cAg;DBS
+40;S2;Strategy 2 : Ab (lab) + rna (lab). DBS;95.4324;Lab HCV-Ab - Lab HCV-RNA;DBS
+50;S9;Strategy 9: Ab (RDT) + cAg (lab). DBS;76.3165;POC HCV-Ab - Lab HCV-cAg;DBS
+50;S4;Strategy 4 : Ab (RDT) + RNA (lab) - DBS;97.51;POC HCV-Ab - Lab HCV-RNA;DBS
+50;S6;Strategy 6: Ab (lab) + cAg (lab). Venous blood;46.4665;Lab HCV-Ab - Lab HCV-cAg;Venepuncture
+50;Sref;Reference strategy : Ab (lab) + rna (lab). Venous blood;49.70025;Lab HCV-Ab - Lab HCV-RNA;Venepuncture
+50;S7;Strategy 7: Ab (lab) + cAg (lab). DBS;74.69046;Lab HCV-Ab - Lab HCV-cAg;DBS
+50;S2;Strategy 2 : Ab (lab) + rna (lab). DBS;95.4324;Lab HCV-Ab - Lab HCV-RNA;DBS
